@@ -1,0 +1,169 @@
+css
+   h1 {
+       color: #fda191; /* Color tomate */
+       font-family: 'Arial', sans-serif; /* Fuente */
+       font-size: 48px; /* Tamaño */
+       text-align: center; /* Alineación */
+       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra */
+   }    </header>
+
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #b6741d; /* Fondo rosado claro */
+        }
+
+        header {
+            background-color: #87358f; /* Color rosa estandar */
+            color: rgb(15, 14, 14);
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .university-card {
+            background-color: hsl(276, 40%, 78%); /* Color lila para los cuadros */
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            width: calc(23cm - 40px); /* Ancho del cuadro con margen */
+            height: auto; /* Altura automática para adaptarse al contenido */
+            text-align: center;
+        }
+
+        .university-card h2 {
+            margin-top: 0;
+            font-family: 'Georgia', serif; /* Estilo de letra bonito */
+        }
+
+        .university-card p {
+            line-height: 1.6;
+        }
+
+        .university-card a {
+            display: inline-block;
+            background-color: #74318f; /* Color rosa viejo */
+            color: rgb(75, 17, 87);
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .university-card a:hover {
+            background-color: #27ae60; /* Color terracota  */
+        }
+    </style>
+</head>
+<body>
+    <header>
+<title>Universidades para Estudiar Nutrición</title>
+    <style>
+        /* Estilos aquí */
+    </style>
+</head>
+<body>
+    <header>
+        <title>Universidades para Estudiar
+        Nutrición</title>
+        <style>
+        /* Estilos aquí */ </style>
+        </head>
+        <body>
+        <header>
+            <h1> Universidades para
+                Estudiar Nutrición</h1>
+                </header>
+    <div class="container">
+        <div class="university-card">
+            <h2>Universidad Privada de la Península</h2>
+            <p><strong>Objetivo General:</strong><br>
+                La Licenciatura en Nutrición de la Universidad Privada de la Península tiene como objetivo formar profesionales capaces de administrar y dirigir servicios de alimentación, en concordancia con la política alimentaria y nutricional del país.
+                la universidad ofrece un 70% de descuento al inscribirte
+            </p>
+            <p><strong>REQUISITOS DE ADMISIÓN:</strong><br>
+                * Acta de nacimiento (Actualizada)<br>
+                * Certificado de prepa (Actualizada)<br>
+                * CURP (2 copias)<br>
+                * 4 fotos tamaño infantil b/n<br>
+                *(Original y 2 copias).
+            </p>
+            <a href="https://www.universidadupp.edu.mx/nutricion/">Más Información</a>
+            <img src="https://prospectus.com.mx/wp-content/uploads/2022/01/UPP.jpg" alt="UPP">
+
+        </div>
+
+        <div class="university-card">
+            <h2>Colegio Universitario Valladolod</h2>
+            <p><strong>Objetivo General:</strong><br>
+                El egresado de la Licenciatura en Nutrición es un profesionista con habilidades y conocimientos para ejecutar acciones de valor nutricional, valoraciones clínicas y prescripción dietoterapéutica en el estado de salud y enfermedad; realizar acciones de administración en programas, políticas y servicios de alimentación; participar en programas de promoción y orientación en nutrición con sentido ético y humanístico, a los alumnos foraneos se les ofrece un departamento a un precio accesible en el cual se pueden quedar hasta terminar la carrera deseada.</p>
+            <p><strong>REQUISITOS DE ADMISIÓN:</strong><br>
+                * llenar solicitod de inscripcion<br>
+                * certificado de preparatoria<br>
+                * acta de nacimiento<br>
+                * comprobante de domicilio<br>
+                *curp.
+            </p>
+            <a href="https://www.cuv.mx/oferta-educativa/licenciatura/salud/nutricion/">Más Información</a>
+            <img src="Imagen de WhatsApp 2025-03-16 a las 11.10.12_afea4327.jpg">
+        </div>
+
+
+        <div class="university-card">
+            <h2>Universidad Vizcaya Ensenada</h2>
+            <p><strong>Objetivo General:</strong><br>
+               Despierta al profesional que llevas dentro, capaz de nutrir cuerpos y mentes con sabiduría y pasión. Domina los principios esenciales que moldean la salud y el bienestar, compartiendo y aplicando conocimientos que inspiren y transformen la calidad de vida de las personas. </p>
+            <p><strong>REQUISITOS DE ADMISIÓN:</strong><br>
+                * certificado de bachillerato <br>
+                * CURP<br>
+                * IFE (2 copias)<br>
+                * 4 fotografías infantile<br>
+                *NO tenemos examen de admisión .
+            </p>
+            <a href="https://uva.edu.mx/merida/licenciaturas/licenciatura-en-nutricion/">Más Información</a>
+            <img src="Imagen de WhatsApp 2025-03-16 a las 11.55.40_9741d362.jpg" alt="Descripción de la imagen">
+
+
+        </div>
+<div class="university-card">
+            <h2>CERT de Merida Yucatan</h2>
+            <p><strong>Objetivo General:</strong><br>
+              La Licenciatura en Nutrición del CERT forma nutriólogos altamente capacitados con habilidades prácticas para dar solución a los problemas en nutrición o alimentación enfocados a individuos y comunidades. La institución ofrece espacios habilitados para la práctica de atención nutricional, laboratorios para el estudio de microbiología y la producción de alimentos. </p>
+            <p><strong>REQUISITOS DE ADMISIÓN:</strong><br>
+                *CURP <br>
+                * Identificación oficial <br>
+                * constancia de estudios <br>
+                *fotógrafa<br>
+                *comprobante de pago del EXAMI II .
+            </p>
+            <a href="https://merida.cert.edu.mx/licenciatura/8/nutricion">Más Información</a>
+            <img src="Imagen de WhatsApp 2025-03-16 a las 11.50.48_7038fe07.jpg">
+
+
+        </div></div>
+    </ul>
+</section>
+
+<footer>
+    <p>Reina Isabel Tuz Varguez | grupo 2 |generacion 2022-2025 | Adalio Quiñones Solis</p>
+</footer>
+
+</body>
+</html>
+
+</body>
+</html>
